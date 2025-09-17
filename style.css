@@ -13,6 +13,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100vh;
 }
 .card {
     display: flex;
@@ -46,6 +47,8 @@ h1 {
     letter-spacing: 2px;
 }
 p {
+    display: flex;
+    justify-content: center;
     font-size: 15px;
     font-weight: 100;
     color: rgb(184, 179, 179);
